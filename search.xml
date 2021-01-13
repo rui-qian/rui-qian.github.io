@@ -1,22 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Prototypes]]></title>
-    <url>%2F2021%2F01%2F13%2Fprototypes%2F</url>
-    <content type="text"><![CDATA[A prototype is nothing more than a proof of concept. Neural Voice Puppetry: Audio-driven Facial Reenactment[Justus et al] (function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"loop":true,"preload":"auto","video":{"url":"/uploads/Justus_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 语音驱动下的虚拟人拟合项目[Qian et al] (function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"loop":true,"preload":"auto","video":{"url":"/uploads/Qian_et_al_align baseline.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 3D目标检测项目 下面的视频demo来自MV3D[chen et al]. 独立在 RPN 阶段实现 Region Attention 模块并构建 Roi-Level 的 GNN 网络， 将SA-SSD 模型的车辆检测精度从 79.77%提升到80.63%。截至 2020/5/28 日，在自动驾驶标准数据KITTI Benchmark上排名第二Link[2/205] (function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"loop":true,"preload":"auto","video":{"url":"/uploads/MV3D_chen_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Prototypes</title>
+      <link href="/2021/01/13/prototypes/"/>
+      <url>/2021/01/13/prototypes/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/uploads/preview/prototypes.png" alt></p><a id="more"></a><h4 id="a-prototype-is-nothing-more-than-a-proof-of-concept"><a class="markdownIt-Anchor" href="#a-prototype-is-nothing-more-than-a-proof-of-concept"></a> A prototype is nothing more than a proof of concept.</h4><hr><blockquote><p>Neural Voice Puppetry: Audio-driven Facial Reenactment[Justus et al]</p></blockquote><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:500px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"loop":true,"preload":"auto","video":{"url":"/uploads/Justus_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><hr><blockquote><p>语音驱动下的虚拟人拟合项目[Qian et al]</p></blockquote><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:500px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"loop":true,"preload":"auto","video":{"url":"/uploads/Qian_et_al_align baseline.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><hr><blockquote><p>3D目标检测项目<br>下面的视频demo来自MV3D[chen et al]. 独立在 RPN 阶段实现 Region Attention 模块并构建 Roi-Level 的 GNN 网络， 将SA-SSD 模型的<strong>车辆检测精度从 79.77%提升到80.63%</strong>。截至 2020/5/28 日，在自动驾驶标准数据<strong>KITTI Benchmark</strong>上排名第二<a href="http://localhost:4000/uploads/Rui_Qian_et_al_3D_object_detection.png" target="_blank" rel="noopener">Link</a><strong>[2/205]</strong></p></blockquote><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:500px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"loop":true,"preload":"auto","video":{"url":"/uploads/MV3D_chen_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+      
+      
       <categories>
-        <category>videos</category>
+          
+          <category> videos </category>
+          
       </categories>
-      <tags>
-        <tag>prototype</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Certificates]]></title>
-    <url>%2F2021%2F01%2F12%2Fcertificates%2F</url>
-    <content type="text"><![CDATA[Enter passwd to decrypt. Incorrect Password! No content to display! U2FsdGVkX1+nZfyjMXOowyzrxnBsEqT47/3WNMcN1lh3NVvM4y//7mF+shN2cQkqlQ+gR2I3yWoUMOxwD56sbl9nSBTlrkt70keLHOwaDHuV/l1J1fOpsd757/oHAb3ZQYfWOmZvwmjIlbcNAD1kCPpa9ixn1R0cju324xt+eqz2LBVfXPFXHpy9WmNZxqHKfE3xO+f8bK3oXwTq/kJpf7nPuejQSrIv/ohkrSXQ2gl30rjds996pNqdLEdwsUBv9Pu6D8+G9U3+chMeHFlebHoIhTxh2Ttb8a5v7e2D9hSZynT6wruNg7eeKO+DdwL6cNxfCJaILlTk52rHMIFpvr1iLhzL9ZWunsrk4bNhxhVRDm5mKbsvvZ3+6IcfjR0lFUXPmfJFW7AWY0d8M2okC6QZMnURJBBtN2dTZmTPsImfL+NGapABaONbjBaI9g2hFCZgPzFeXq6NL78zT5sNcPgiktK7Qqsz+0NNTHIDVf7Wtg4JXnqJhob84yd+rLFvY7ZVxD4WKBkgnDbYiwQZ8JcvtROQoTBZ3cF+i9CNrZ8qnxN5+MaMSXXQOVqE/K9vgY6iAjRPKRnBzdFNHK0Rp+UT4jpslNqwclyY5PxuSJ5it8AyEKK/gTsTbkPuLQ2yH7//VLu3UokPyyDtZxii8DL+rGBcqh1sQcRiYdJLgbnotkx2KoaK+J7bQa7rtqqyYR8g8ztvtUfMbhh5DqoaAlCqGjWUSYXVQGrSMySuz8a9jetUV7T34rFXzNFO7R6lVRQ92M+Qi7N+igt00Ll4SNmus/AGJy47K6ZG6ZX9N7B8TOkUJy87Uae7sdQTTTf6MSg3NhEO8FwrMmQxN4kcqwaNmSzA0Ox5OhLWVjP3Il4ajdLdIyLTFU7k9FT+ZRQ9IVfnK6lgo/znZE8i95eaDeG6bAfRYHT7+GGVPQS1INDyUF6Tut2G5TX1tPIVtPWEODTJ5Z2jE5yNdPXTVJIIS432FzNj0PL0l1dxCV0IPfLCPNEvLaJ0p78IgtWUAYvH7GAUz1T8HIghao/6OcAyDHtu/CrVbeIPhRv9tcg1Yf++UkHxEXC7f6oTN01A4rEwzjDvU0IFBcxH8Q41V9uPMXLwJ6N3OveiFItRnJsHbUMpnADZV7G7qvfELD9/IiIa+UQj/429GhuOjuRpvsCkF8m8ZIuGH2T8L44rYC4B+zHmQEaPPAlyUfEZNpIULbyEqahq0Ag5BgDDMzfCpD4O07nZ7xg5GpFOnXh/oQPY3HAThAMKRpI+KgNUbmea+ZBR8pHUIWi0wndc/pdhzYn39kNPinw5g3XobfLd76+HwtJPlGu27a/1L46d5f8aJZ6+Mh8aUho2bLI0fgrAVpJbs1nPKHd3lkC0wj43Zu/3jFOvs0Q9X4R9MLBBOB7kkbnScSuHDh9HgeoVih/1Ty9tWzdAQabsGlQS59CP/9wu5S3/TKCJOeWYMwO7wEw9PrxKk11Xl8uMif5BMibyFj+sYxNBZ7ZU8jL3SzylLsUVQspujXi9aVCVR061ziB+Dsds+LJeeb9XwMGgTgxEberZwTowln/F6ZQblbC/4sFhc6SdGeSEXvp+ljXTXFb7cldzIMiOz/zuXgp6IVYnrcoosQ==]]></content>
-      <tags>
-        <tag>certificates</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> prototype </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Certificates</title>
+      <link href="/2021/01/12/certificates/"/>
+      <url>/2021/01/12/certificates/</url>
+      
+        <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Enter passwd to decrypt." />    <label for="pass">Enter passwd to decrypt.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+mUsldlfMyqYuuv5dVL/feNFqlSBJjwF06vHdgTRccqFD8ugGyFgOTT4D6ciObK1zoAUrSdUxUm4lJZqAEGIi0v6pOX15Fj6DgRVeohTe4rvvkNezfvMDOT8beOZLBzUB+IQI55hFkrcdtRBCD+RRSCprNP7cdoD+8CsRztsGA9k5t+u3vuYJ3rp8tqW1QHITfzsmXyUw3oBOr1SfXlLFvpvxf07bqCBT/mpql2WXeFfFi8U/6Xj174dPesRV06abbxu9AubWrReUKW5U+AXEZCJ03rrc8ZTnOHInB+zr7jdBejjozZ9vMMLLXwPwSfOx49FKqvm3+veyKKtOrKycwKsWVtS1yhjGXG3Dg1G+MJD6Ye+tthAJTgC3tz8nMwPekuSnFI9waxECPKOx2aox9uNoZU150WdQ1mSK2pr+w5V/UsYaJwy5LVCguuECJwuCHJIo/9ne708tfkYAiIJqd+nlSGGh3GngNJU6PKtbXfeNQWV2h56TXpJ621cJ5lS8uebUhtEtexxp/I5so8j6NliP8mDiFu6fLpMeWyZJm2qXiFKtB7bUI3lGtKVvEU+w801dUqu8iloixR68fFtF88CIqb2+PrS0NiWrRNn2NDrin8A+33ojl+hZgO1KwffacizDDQ/l+q8Y6ukhCJTMJyTESQeZwL7TZCk41mXFSY4A0CMMIXWfxX1a7STc9rL4RYr4gGf94n/pk3yCNPJJeXAIr/G1qzCnD5NnrA88jJLlNmDtL6ZkewBhJvOrAmNQ0Ek61IYkHQx3nAv+xQAURSKeZX2Br4ysFZPXCO9dx8+dMY81HimKANwC8tCp8tN61MY903ZdNFf+xRLsSzIE1Qel693bqQuwuvoXZu735pzpIXIYmt5UErnCLeUp3Lr0j23ZVwEs4+6i0U0J38qnYKpAaBrVIOrs3At9+C44bSSm7htnHXc2P0aqGEuAMG/535emSKJQTzp1GW7wHOwnUKAJmNx1ETOtwG8QpNbzW/W+m3k/9HJvE0owxZ6vUA6/ravCZkBJ317t4zFkTkPCCzszzxzaqFS9ctbpUEPVkVQqQFZIaYmsqjrXkSAnNWh0PnDJTDHIuLtF5MdQoeAD0UpDt6FYkqJmYS5KP5grz29qhEWeD+LkeQeDXO2UU92QrYKTEldP92Fby0wB8zhrmZtoZWaY9Nk1c3WEPEuPgH4FKmd2hu5PHvWfNzOgLVUICLDBeUwNsk/mxxu6XZIIW1R/yvej7zyqTImt9FiqbqRYDwxl1LkDjIp3WIjI6q8mB54nTUv4l39NUv2f6DHicI4d5vHW6OSC4e201uAtkToG/+fe+d7IojHhVcupt84jpgoOxXNvgRgWkZ9smGsCXkUrMoUUAcAn2aLzBxkt2POHTaJdRJSQB+trO707DfsSxb3fOtE04t/cHVWhEPXi46TrXQU1hcYx6e1zS/B+Y5VYNPxbbEHabTmVSktHvcDgfL6QLr9w/dynxESFJ7pGGZUeCYpXvv8UZ6DiTJKqWB1AeXuXcx4L+SWRJW5ULglM4LYN5sAj8m35JtjaTNu7k3+dUIcug+FrRM5hUn1bGWhpqPuQme2kUnU9b18fJikzo492eXLXvFw==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> certificates </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
