@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Prototypes]]></title>
+    <url>%2F2021%2F01%2F13%2Fprototypes%2F</url>
+    <content type="text"><![CDATA[A prototype is nothing more than a proof of concept. Neural Voice Puppetry: Audio-driven Facial Reenactment[Justus et al] (function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"loop":true,"preload":"auto","video":{"url":"/uploads/Justus_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 语音驱动下的虚拟人拟合项目[Qian et al] (function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"loop":true,"preload":"auto","video":{"url":"/uploads/Qian_et_al_align baseline.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 3D目标检测项目 下面的视频demo来自MV3D[chen et al]. 独立在 RPN 阶段实现 Region Attention 模块并构建 Roi-Level 的 GNN 网络， 将SA-SSD 模型的车辆检测精度从 79.77%提升到80.63%。截至 2020/5/28 日，在自动驾驶标准数据KITTI Benchmark上排名第二Link[2/205] (function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"loop":true,"preload":"auto","video":{"url":"/uploads/MV3D_chen_et_al.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+      <categories>
+        <category>videos</category>
+      </categories>
+      <tags>
+        <tag>prototype</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Certificates]]></title>
+    <url>%2F2021%2F01%2F12%2Fcertificates%2F</url>
+    <content type="text"><![CDATA[Enter passwd to decrypt. Incorrect Password! No content to display! U2FsdGVkX1/L1soksM4PGwQ4TvokvCov4oB24vicejhueyCToeJHbLKIeulRsGkjuh+anMf5XnWFxVyAMf3f5tf/dKH/YeUHTtjvIyRRqKu3Ejps0mcfsmvRath1buZjyB8bUqQ5l0j+ovybzBrkm0r3tnIazJQh1fjTEXaOm+QTRp3WGyjfp2aLVD5NTxb+ih2MhXvoyvDuuoMwANrikdewMhlxWLcgLqlNPnp0+QAa1GOszKQBNfgcr/C5BrDPn70XFjezS6YeyKcs0MEcGxMyMKiuAjQC7U9EnX7lGT4XCHn2d3N49QY7vxlSqx4fKHEdpBDlA3/Ozbh1Agy6i9eq6W/IyWoYfWKzlriTRbcyZbOpxbyu3Tq6E9KwcQ0per5XR8XmQuNg6cA7nfRtrVuZ7r9Z2K8iDmOhBNPDk9ZwG4xp9QriuUa+BUqWfgLYtOSjUE4T8nkSb7S7ijXEmKBipuM9aP0M03vRqaDv3zdou5bGUBcLlAVBnc6xPHpnuH+mjN9OrQWMXZZLlcLjkQM/+movjD6Oq0bKbGba2j2GknpY4KpgK0ScOp9ixICwKya3t+0b3K/OMIWgzX/iNNMFwqMb/py/5ywLvfKJllP0EEd+oWcZv819xceNmWmKqiI0rfQKYkJtlU59VYnYB3dJ8KnCslsa0qUjknn+4TzSpFOoqerdTy9GMMLPz7Vx83lVKDBQXcGxzZStPb0l69QEihn5/VahvS+kObszGMvmEVlZn4+3q3t/JyeBwPXMRDtsEkmMOiSIpjz8+f8Y9S6IQxIX0R4IeQYdMMncweaeXcYuzEKug7rYiLSSOPURUfMar1+QKOoHRHPqRO751M66YaLGVLPEfwH+ZaPmVrBYbdYdLeNrXbDoLuNDfZ2cZoqwGLOLTcZYxga3+Mf+JEmXIa1pL+8EXf1gV4UTM6OvJlvWRUaIExss2SXSN1nWx6cjMNO+nrGs4F4HB2AH6VXib4IqfJm753pnPCp89ufOo1X2fDj0S6Bn1DDp2W0UXr5bwmDlCcny0DjsgROaX/DQstws85SGhPrTqhfIC1RZc2WmnhHfbWJA5ox/rsdgDloHYp6Z+pqVpSkpVIBQ+6Fsg0Wt6zKaqP305KT27cC+KAHLU1YPGClATdcSd2qZW+iE3i6v+26LTZEaAEUcVBw3+A1t1Mu6NUI8f8gYveD5z0WJ2tD1kQHX7dd22jJL+noq9uPBBf6gbq/gLhNeo/IWHro8YfBcQ+ewC9q9qUMLWB2SPc+9jPl7T14bHS9Gff3m3fTy4F3c4ZhgOZ7jnlLBcYZ6l7buOKbQd1kZ1IRAK6VrHMUaPgJGWQp60IBtqjuMGd5NwRJ+AyITg640i28WG8ig/7DPyqqDWp0iOqL7FI/LRLtc/jKFCdeV7erCrnSNkWv3RPtDgXBue7gBijuAyQFfZhZPJKxWZQnrAt+PXuc0jfzyRBzQ7++coU94F/p0A4/GHAjVggrL4GZZjkDf12xAdhxsBxE9f6FxiNRZwnm1ZfMpC3+T1m6Bn3ux9vuB3kbFyJu+1DKqpPQpcMe37QosBfzkSbGUVuAMdtlif2D252rlx3vpjizOv78+f0mTvNh3ys8vZRl5QUEdrQ==]]></content>
+      <tags>
+        <tag>certificates</tag>
+      </tags>
+  </entry>
+</search>
